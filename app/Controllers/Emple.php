@@ -14,14 +14,12 @@ class Emple extends BaseController {
     protected $libraries = ['validation'];
     protected $Empl = "";
     protected $Ptos = "";
-    protected $Ptos2 = "";
     protected $Suc = "";
 
     public function __construct() {
         $this->Empl = new EmpleModel();
         $this->Ptos = new PuestosModel();
         $this->Suc = new SucursalModel();
-        $this->Ptos2 = new PuestosModel();        
     }
 
     public function index() {
