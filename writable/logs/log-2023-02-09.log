@@ -1,0 +1,395 @@
+CRITICAL - 2023-02-09 17:19:19 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-02-09 17:19:27 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-02-09 17:19:42 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-02-09 17:19:46 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-02-09 17:21:22 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-02-09 17:21:22 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-02-09 17:21:35 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-02-09 17:31:17 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-02-09 17:31:26 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-02-09 17:33:43 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-02-09 17:33:55 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-02-09 17:38:30 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-02-09 17:38:37 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-02-09 17:41:25 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-02-09 17:47:30 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-02-09 17:51:17 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-02-09 17:56:55 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-02-09 17:56:57 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-02-09 17:56:58 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-02-09 16:27:41 --> Undefined variable: Proyectos
+in APPPATH\Views\Empleados.php on line 47.
+ 1 APPPATH\Views\Empleados.php(47): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Empleados.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render()
+ 5 APPPATH\Controllers\Emple.php(9): view()
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Emple->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-09 17:25:18 --> Class 'App\Models\EmpleModel' not found
+in APPPATH\Controllers\Emple.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Emple->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-09 17:26:10 --> Class 'app\Controllers\BaseController' not found
+in APPPATH\Controllers\Emple.php on line 11.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(312): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile()
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+ 5 [internal function]: spl_autoload_call()
+ 6 SYSTEMPATH\CodeIgniter.php(892): class_exists()
+ 7 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-09 17:26:57 --> Class 'app\Models\EmpleModel' not found
+in APPPATH\Controllers\Emple.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Emple->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-09 17:27:16 --> Class 'App\Models\EmpleModel' not found
+in APPPATH\Controllers\Emple.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Emple->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-09 17:28:26 --> Class 'app\Models\PuestosModel' not found
+in APPPATH\Controllers\Emple.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Emple->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-09 17:43:56 --> Undefined property: App\Controllers\Emple::$Pto
+in APPPATH\Controllers\Emple.php on line 28.
+ 1 APPPATH\Controllers\Emple.php(28): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Emple->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-09 17:44:48 --> Undefined index: Idpuesto
+in APPPATH\Views\Empleados.php on line 96.
+ 1 APPPATH\Views\Empleados.php(96): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Empleados.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render()
+ 5 APPPATH\Controllers\Emple.php(31): view()
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Emple->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-09 18:56:01 --> Undefined index: IdEmpleado
+in APPPATH\Views\Empleados.php on line 62.
+ 1 APPPATH\Views\Empleados.php(62): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Empleados.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render()
+ 5 APPPATH\Controllers\Emple.php(31): view()
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Emple->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-09 18:56:33 --> Undefined index: Puesto
+in APPPATH\Views\Empleados.php on line 66.
+ 1 APPPATH\Views\Empleados.php(66): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Empleados.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render()
+ 5 APPPATH\Controllers\Emple.php(31): view()
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Emple->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-09 19:18:25 --> Undefined index: Puesto
+in APPPATH\Views\Empleados.php on line 66.
+ 1 APPPATH\Views\Empleados.php(66): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Empleados.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render()
+ 5 APPPATH\Controllers\Emple.php(34): view()
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Emple->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-09 19:19:21 --> Undefined index: IdPuesto
+in APPPATH\Views\Empleados.php on line 66.
+ 1 APPPATH\Views\Empleados.php(66): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Empleados.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render()
+ 5 APPPATH\Controllers\Emple.php(34): view()
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Emple->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-09 19:54:42 --> syntax error, unexpected '<', expecting end of file
+in APPPATH\Views\Empleados.php on line 33.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render()
+ 3 APPPATH\Controllers\Emple.php(34): view()
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Emple->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-09 20:05:11 --> Argument 1 passed to CodeIgniter\Database\BaseBuilder::fromSubquery() must be an instance of CodeIgniter\Database\BaseBuilder, array given, called in C:\Program Files\VertrigoServ\www\Exaphp\system\Model.php on line 839
+in SYSTEMPATH\Database\BaseBuilder.php on line 600.
+ 1 SYSTEMPATH\Model.php(839): CodeIgniter\Database\BaseBuilder->fromSubquery()
+ 2 APPPATH\Controllers\Emple.php(31): CodeIgniter\Model->__call()
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Emple->index()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-09 20:06:45 --> Undefined index: 
+in APPPATH\Views\Empleados.php on line 67.
+ 1 APPPATH\Views\Empleados.php(67): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Empleados.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render()
+ 5 APPPATH\Controllers\Emple.php(34): view()
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Emple->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-02-09 20:43:07 --> mysqli_sql_exception: Table 'exaphp.$ptos' doesn't exist in C:\Program Files\VertrigoServ\www\Exaphp\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\Program Files\VertrigoServ\www\Exaphp\system\Database\MySQLi\Connection.php(295): mysqli->query()
+#1 C:\Program Files\VertrigoServ\www\Exaphp\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 C:\Program Files\VertrigoServ\www\Exaphp\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 C:\Program Files\VertrigoServ\www\Exaphp\system\Database\BaseBuilder.php(1602): CodeIgniter\Database\BaseConnection->query()
+#4 C:\Program Files\VertrigoServ\www\Exaphp\system\Model.php(240): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Program Files\VertrigoServ\www\Exaphp\system\BaseModel.php(618): CodeIgniter\Model->doFindAll()
+#6 C:\Program Files\VertrigoServ\www\Exaphp\app\Controllers\Emple.php(31): CodeIgniter\BaseModel->findAll()
+#7 C:\Program Files\VertrigoServ\www\Exaphp\system\CodeIgniter.php(934): App\Controllers\Emple->index()
+#8 C:\Program Files\VertrigoServ\www\Exaphp\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#9 C:\Program Files\VertrigoServ\www\Exaphp\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#10 C:\Program Files\VertrigoServ\www\Exaphp\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-02-09 20:43:07 --> Table 'exaphp.$ptos' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1602): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH\Model.php(240): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(618): CodeIgniter\Model->doFindAll()
+ 4 APPPATH\Controllers\Emple.php(31): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Emple->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-02-09 20:44:16 --> mysqli_sql_exception: Table '$ptos.nompuesto' doesn't exist in C:\Program Files\VertrigoServ\www\Exaphp\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\Program Files\VertrigoServ\www\Exaphp\system\Database\MySQLi\Connection.php(295): mysqli->query()
+#1 C:\Program Files\VertrigoServ\www\Exaphp\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 C:\Program Files\VertrigoServ\www\Exaphp\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 C:\Program Files\VertrigoServ\www\Exaphp\system\Database\BaseBuilder.php(1602): CodeIgniter\Database\BaseConnection->query()
+#4 C:\Program Files\VertrigoServ\www\Exaphp\system\Model.php(240): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Program Files\VertrigoServ\www\Exaphp\system\BaseModel.php(618): CodeIgniter\Model->doFindAll()
+#6 C:\Program Files\VertrigoServ\www\Exaphp\app\Controllers\Emple.php(31): CodeIgniter\BaseModel->findAll()
+#7 C:\Program Files\VertrigoServ\www\Exaphp\system\CodeIgniter.php(934): App\Controllers\Emple->index()
+#8 C:\Program Files\VertrigoServ\www\Exaphp\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#9 C:\Program Files\VertrigoServ\www\Exaphp\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#10 C:\Program Files\VertrigoServ\www\Exaphp\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-02-09 20:44:16 --> Table '$ptos.nompuesto' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1602): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH\Model.php(240): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(618): CodeIgniter\Model->doFindAll()
+ 4 APPPATH\Controllers\Emple.php(31): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Emple->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-02-09 20:46:45 --> mysqli_sql_exception: Table 'exaphp.$ptos' doesn't exist in C:\Program Files\VertrigoServ\www\Exaphp\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\Program Files\VertrigoServ\www\Exaphp\system\Database\MySQLi\Connection.php(295): mysqli->query()
+#1 C:\Program Files\VertrigoServ\www\Exaphp\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 C:\Program Files\VertrigoServ\www\Exaphp\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 C:\Program Files\VertrigoServ\www\Exaphp\system\Database\BaseBuilder.php(1602): CodeIgniter\Database\BaseConnection->query()
+#4 C:\Program Files\VertrigoServ\www\Exaphp\system\Model.php(240): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Program Files\VertrigoServ\www\Exaphp\system\BaseModel.php(618): CodeIgniter\Model->doFindAll()
+#6 C:\Program Files\VertrigoServ\www\Exaphp\app\Controllers\Emple.php(31): CodeIgniter\BaseModel->findAll()
+#7 C:\Program Files\VertrigoServ\www\Exaphp\system\CodeIgniter.php(934): App\Controllers\Emple->index()
+#8 C:\Program Files\VertrigoServ\www\Exaphp\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#9 C:\Program Files\VertrigoServ\www\Exaphp\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#10 C:\Program Files\VertrigoServ\www\Exaphp\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-02-09 20:46:45 --> Table 'exaphp.$ptos' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1602): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH\Model.php(240): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(618): CodeIgniter\Model->doFindAll()
+ 4 APPPATH\Controllers\Emple.php(31): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Emple->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-02-09 20:52:24 --> mysqli_sql_exception: Unknown column '$Empl.IdPuesto' in 'on clause' in C:\Program Files\VertrigoServ\www\Exaphp\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\Program Files\VertrigoServ\www\Exaphp\system\Database\MySQLi\Connection.php(295): mysqli->query()
+#1 C:\Program Files\VertrigoServ\www\Exaphp\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 C:\Program Files\VertrigoServ\www\Exaphp\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 C:\Program Files\VertrigoServ\www\Exaphp\system\Database\BaseBuilder.php(1602): CodeIgniter\Database\BaseConnection->query()
+#4 C:\Program Files\VertrigoServ\www\Exaphp\system\Model.php(240): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Program Files\VertrigoServ\www\Exaphp\system\BaseModel.php(618): CodeIgniter\Model->doFindAll()
+#6 C:\Program Files\VertrigoServ\www\Exaphp\app\Controllers\Emple.php(31): CodeIgniter\BaseModel->findAll()
+#7 C:\Program Files\VertrigoServ\www\Exaphp\system\CodeIgniter.php(934): App\Controllers\Emple->index()
+#8 C:\Program Files\VertrigoServ\www\Exaphp\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#9 C:\Program Files\VertrigoServ\www\Exaphp\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#10 C:\Program Files\VertrigoServ\www\Exaphp\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-02-09 20:52:24 --> Unknown column '$Empl.IdPuesto' in 'on clause'
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1602): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH\Model.php(240): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(618): CodeIgniter\Model->doFindAll()
+ 4 APPPATH\Controllers\Emple.php(31): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Emple->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-09 20:53:50 --> Undefined index: Npto
+in APPPATH\Views\Empleados.php on line 67.
+ 1 APPPATH\Views\Empleados.php(67): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Empleados.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render()
+ 5 APPPATH\Controllers\Emple.php(34): view()
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Emple->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-09 20:56:56 --> Undefined index: puestos.Nompuesto
+in APPPATH\Views\Empleados.php on line 67.
+ 1 APPPATH\Views\Empleados.php(67): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Empleados.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render()
+ 5 APPPATH\Controllers\Emple.php(34): view()
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Emple->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-02-09 20:59:14 --> mysqli_sql_exception: Table 'puestos.nompuesto' doesn't exist in C:\Program Files\VertrigoServ\www\Exaphp\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\Program Files\VertrigoServ\www\Exaphp\system\Database\MySQLi\Connection.php(295): mysqli->query()
+#1 C:\Program Files\VertrigoServ\www\Exaphp\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 C:\Program Files\VertrigoServ\www\Exaphp\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 C:\Program Files\VertrigoServ\www\Exaphp\system\Database\BaseBuilder.php(1602): CodeIgniter\Database\BaseConnection->query()
+#4 C:\Program Files\VertrigoServ\www\Exaphp\system\Model.php(240): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Program Files\VertrigoServ\www\Exaphp\system\BaseModel.php(618): CodeIgniter\Model->doFindAll()
+#6 C:\Program Files\VertrigoServ\www\Exaphp\app\Controllers\Emple.php(31): CodeIgniter\BaseModel->findAll()
+#7 C:\Program Files\VertrigoServ\www\Exaphp\system\CodeIgniter.php(934): App\Controllers\Emple->index()
+#8 C:\Program Files\VertrigoServ\www\Exaphp\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#9 C:\Program Files\VertrigoServ\www\Exaphp\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#10 C:\Program Files\VertrigoServ\www\Exaphp\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-02-09 20:59:14 --> Table 'puestos.nompuesto' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1602): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH\Model.php(240): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(618): CodeIgniter\Model->doFindAll()
+ 4 APPPATH\Controllers\Emple.php(31): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Emple->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-09 22:44:27 --> Undefined index: pt.Nompuesto
+in APPPATH\Views\Empleados.php on line 67.
+ 1 APPPATH\Views\Empleados.php(67): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Empleados.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render()
+ 5 APPPATH\Controllers\Emple.php(35): view()
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Emple->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-09 22:44:28 --> Undefined index: pt.Nompuesto
+in APPPATH\Views\Empleados.php on line 67.
+ 1 APPPATH\Views\Empleados.php(67): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Empleados.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render()
+ 5 APPPATH\Controllers\Emple.php(35): view()
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Emple->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
